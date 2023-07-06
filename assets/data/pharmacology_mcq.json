@@ -1,0 +1,340 @@
+[
+    {
+      "id": 1,
+      "question": "Pharmacokinetics is:",
+      "options": [
+        {"a": "The study of biological and therapeutic effects of drugs"},
+        {"b": "The study of absorption, distribution, metabolism and excretion of drugs"},
+        {"c": "The study of mechanisms of drug action"},
+        {"d": "The study of methods of new drug development "}
+      ],
+      "answer": "b",
+      // "description" : "A name my father gave me"
+    },
+    {
+      "id": 2,
+      "question": "What does “pharmacokinetics” include?",
+      "options": [
+        {"a": "Complications of drug therapy"},
+        {"b": " Drug biotransformation in the organism"},
+        {"c": "Influence of drugs on metabolism processes"},
+        {"d": "Influence of drugs on genes "}
+      ],
+      "answer": "b",
+      // "description" : "A name her father gave her"
+    },
+    {
+      "id": 3,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 4,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+    {
+      "id": 2,
+      "question": "This is your friend's name?",
+      "options": [
+        {"a": "Wisdom"},
+        {"b": "Chisom"},
+        {"c": "Ngozi"},
+        {"d": "Gerald"}
+      ],
+      "answer": "b",
+      "description" : "A name her father gave her"
+    },
+
+  ]
+  ]

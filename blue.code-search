@@ -1,0 +1,12 @@
+# Query: blue
+
+3 results - 3 files
+
+App.js:
+  43:     backgroundColor: '#004E98',
+
+screen\Home.js:
+  49:     backgroundColor: "#004E98",
+
+screen\quiz.js:
+  71:     backgroundColor: "#004E98",
